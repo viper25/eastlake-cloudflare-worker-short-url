@@ -5,7 +5,7 @@ node_compat = true
 
 [[kv_namespaces]]
 binding = "LINKS"
-id = "7f0bf9809c464f51871b753cdda2c124" ## Change it to yours
+id = "a38d70587f9649d7b0b7fb2e161e321b" ## Change it to yours
 [build]
 command = "npm run build"
 [vars]
